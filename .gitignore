@@ -13,7 +13,6 @@
 /vendor/assets/jquery
 /vendor/assets/uikit
 /config.php
-/composer.phar
 /composer.lock
 /pagekit*.zip
 node_modules
