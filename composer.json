@@ -15,7 +15,7 @@
         "php": ">=5.4.0",
         "lusitanian/oauth": "~0.3",
         "nikic/php-parser": "1.*",
-        "pagekit/framework": "0.9.*@dev",
+        "pagekit/framework": "dev-develop",
         "pagekit/razr": "0.9.*@dev",
         "swiftmailer/swiftmailer": "5.*",
         "symfony/translation": "2.6.*"
